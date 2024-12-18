@@ -50,7 +50,7 @@ st.markdown(
             Surprise your loved ones with chocolates wrapped in a personalized photo wrapper. 
             Add your memories to the wrapper and make any occasion unforgettable!
         </p>
-        <img src="https://via.placeholder.com/300" alt="Customized Chocolate Wrapper">
+        <img src="image.png" alt="Customized Chocolate Wrapper">
     </div>
     """,
     unsafe_allow_html=True,
